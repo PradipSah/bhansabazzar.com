@@ -1,4 +1,4 @@
-package com.bhansabazzar.ppsgtech
+package com.laligurans.ppsgtech
 
 import io.flutter.embedding.android.FlutterActivity
 

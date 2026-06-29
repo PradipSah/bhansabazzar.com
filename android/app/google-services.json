@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "504981322130",
-    "project_id": "bhansabazzar-c8f15",
-    "storage_bucket": "bhansabazzar-c8f15.firebasestorage.app"
+    "project_id": "laligurans-c8f15",
+    "storage_bucket": "laligurans-c8f15.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:504981322130:android:e86f2ad6cc1be6d9af694b",
         "android_client_info": {
-          "package_name": "com.bhansabazzar.ppsgtech"
+          "package_name": "com.laligurans.ppsgtech"
         }
       },
       "oauth_client": [],
