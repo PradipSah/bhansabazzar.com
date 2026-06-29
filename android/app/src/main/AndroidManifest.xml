@@ -32,7 +32,7 @@
     </queries>
 
     <application
-        android:label="laligurans"
+        android:label="bhansabazzar"
         android:name="${applicationName}"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"

@@ -17,7 +17,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.laligurans.ppsgtech"
+    namespace = "com.bhansabazzar.ppsgtech"
     compileSdk = 36
 
     ndkVersion = "28.2.13676358"
@@ -36,7 +36,7 @@ android {
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         multiDexEnabled = true
-        applicationId = "com.laligurans.ppsgtech"
+        applicationId = "com.bhansabazzar.ppsgtech"
         minSdk = flutter.minSdkVersion
         targetSdk = 36
         versionCode = flutter.versionCode
