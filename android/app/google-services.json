@@ -12,7 +12,20 @@
           "package_name": "com.bhansabazzar.ppsgtech"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "504981322130-btk3alc2hhglq9d2eo4muh4i8tmhi4ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhansabazzar.ppsgtech",
+            "certificate_hash": "64df3f15a6449ab967c2d4949435bb58b7fb236a"
+          }
+        },
+        {
+          "client_id": "504981322130-9spnhtkedu1nvqjfbgpu1bpfsvhk1gtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAU8ACjk-ztbGAPcMZ7Qw6F2pInOHO2aYo"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504981322130-9spnhtkedu1nvqjfbgpu1bpfsvhk1gtq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504981322130-u3792jr36s1ednon9r3tggrbohh99n7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bhansabazzar.ppsgtech"
+              }
+            }
+          ]
         }
       }
     }
